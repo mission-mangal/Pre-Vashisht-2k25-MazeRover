@@ -302,7 +302,7 @@ If everything is set up correctly, you should see messages being published.
 1.  Navigate to the workspace:
     
     ```bash
-    cd pre_vashisht
+    cd Pre_vashisht
     ```
     
 2.  Build the package:

@@ -291,7 +291,7 @@ If everything is set up correctly, you should see messages being published.
 2.  Clone the `pre_vashisht` workspace from GitHub:
     
     ```bash
-    git clone https://github.com/your-repo/pre_vashisht.git
+    git clone https://github.com/mission-mangal/Pre-vashisht-2k25-mazerover.git
     ```
     
 

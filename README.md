@@ -43,9 +43,10 @@ This guide provides a **step-by-step** approach to installing **VMware Workstati
 ### **Steps to Download**
 
 1.  **Go to VMware’s official website:**
+    - https://www.techspot.com/downloads/1969-vmware-player.html
     - [VMware Workstation Player Download Page](https://www.vmware.com/go/downloadplayer)
-2.  Scroll down and select **Windows version**.
-3.  Click **Download Now**.
+3.  Scroll down and select **Windows version**.
+4.  Click **Download Now**.
 
 * * *
 
